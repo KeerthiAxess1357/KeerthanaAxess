@@ -1,0 +1,54 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="5">
+            <item index="0" class="java.lang.String" itemvalue="xattr" />
+            <item index="1" class="java.lang.String" itemvalue="pytest-playwright" />
+            <item index="2" class="java.lang.String" itemvalue="playwright" />
+            <item index="3" class="java.lang.String" itemvalue="python-slugify" />
+            <item index="4" class="java.lang.String" itemvalue="pyee" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N806" />
+          <option value="N802" />
+          <option value="N801" />
+          <option value="N803" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="automation.libs_local.acct_mgmt.ui.msp_acct_mgmt_pages" />
+          <option value="automation.libs_local.commons.ui.elem_nav_bar.deploy_element" />
+          <option value="allure" />
+          <option value="brnf_sa_sc_user_login_load_account" />
+          <option value="newsubsorder_session" />
+          <option value="hpe_glcp_automation_lib.libs.commons.utils.s3.s3_download" />
+          <option value="hpe_glcp_automation_lib.libs.adi.app_api.*" />
+          <option value="hpe_glcp_automation_lib.libs.sm.helpers.sm_payload_constants.SmInputPayload.svc_dis_recovery_zerto" />
+          <option value="hpe_glcp_automation_lib.libs.sm.helpers.sm_payload_constants.SmInputPayload.vm_bakcup" />
+          <option value="tests.feature_test_v2.testcases.conftest.newsubsorder_session_msp.create_compute_subs_order" />
+          <option value="brnf_sa_sc_user_login_load_account_msp_account" />
+          <option value="jira.utils.threaded_requests.delete" />
+          <option value="sm_app_api_session" />
+          <option value="SubscriptionManagementNBAPI_session_msp" />
+          <option value="Exception.response" />
+          <option value="automation.Modules.practice.__name" />
+          <option value="bytes.presence_of_element_located" />
+          <option value="automation.test.BY" />
+          <option value="automation.test.PIM" />
+          <option value="automation.test2.BY" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

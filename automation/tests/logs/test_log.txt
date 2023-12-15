@@ -1,0 +1,4 @@
+INFO     root:test_dominos.py:14 Choosing the location...
+INFO     root:home_page.py:31 Clicking online order button
+INFO     root:home_page.py:38 Entering Pincode
+INFO     root:home_page.py:51 Banner not displayed
